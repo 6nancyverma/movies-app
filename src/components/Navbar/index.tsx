@@ -12,7 +12,7 @@ function Navbar() {
       <div className="py-4 flex items-center justify-between gap-2 px-4">
         <ThemeDropdown />
         <Link
-          to="https://github.com/6nancyverma"
+          to="https://github.com/6nancyverma/movies-app"
           target="_blank"
           rel="noopener noreferrer"
         >
